@@ -1,5 +1,5 @@
 module CMeCab [system] {
-    header "/usr/include/mecab.h"
+    header "CSources/mecab.h"
     link "mecab"
     export *
 }
